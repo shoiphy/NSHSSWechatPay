@@ -17,16 +17,16 @@ namespace WxPayAPI.lib
         */
 
         public string GetAppID(){
-            return "wxf1fe2700317ddd8f";
+            return "wx123423425345345";//example , Rob here
         }
         public string GetMchID(){
-            return "1517219131";
+            return "12342342342";//example , Rob here
         }
         public string GetKey(){
-            return "hyb123456HYB123456hyb123456HYB12";
+            return "nshss12342356nshss12342356nshss12342356";//example , Rob here
         }
         public string GetAppSecret(){
-            return "ef807adf869f9dc545ffdbef6bf9457b";
+            return "adfa232342g323c3c423c23c23c34c";//example , Rob here
         }
 
 
@@ -50,7 +50,7 @@ namespace WxPayAPI.lib
         /* Payment result notification callback url for merchants to receive payment results
         */
         public string GetNotifyUrl(){
-            return "http://47.98.167.97/example/ResultNotifyPage.aspx";//notify page url
+            return "http://47.98.167.97/example/ResultNotifyPage.aspx";//notify page url , Rob here
         }
 
         //=======【Vendor system backend machine IP】===================================== 
